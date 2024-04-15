@@ -101,7 +101,7 @@ When you're done, push your code to github and [follow these steps to deploy usi
 
 **Deployment Technical Requirements**
 
-- [ ] Your GitHub page has a link to the deployed server in the About section. 
+- [ https://eight-0-1-assignment-ismaelenriquez.onrender.com ] Your GitHub page has a link to the deployed server in the About section. 
 
 ## Bonus Challenge: 
 
